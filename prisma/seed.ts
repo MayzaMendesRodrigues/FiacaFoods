@@ -782,7 +782,7 @@ const createDeserts = async (restaurantId: string, categoryId: string) => {
       name: "Sorvete Especial",
       price: 30,
       description: description,
-      discountPercentage: 5,
+      discountPercentage: 10,
       imageUrl:
         "https://utfs.io/f/b703fcaa-eb9c-4257-a08e-fba0f0e12fc1-pr8gxl.png",
       restaurant: {
